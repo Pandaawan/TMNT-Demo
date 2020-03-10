@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\CameraMovement.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\RoomMove.cs" />
+    <Compile Include="Assets\Scripts\Sign.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Unity/TMNT Demo/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
