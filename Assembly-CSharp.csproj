@@ -69,6 +69,7 @@
     <Compile Include="Assets\Scripts\PlayerHit.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\RoomMove.cs" />
+    <Compile Include="Assets\Scripts\ScriptableObjects\FloatValue.cs" />
     <Compile Include="Assets\Scripts\Sign.cs" />
     <Compile Include="Assets\Scripts\log.cs" />
     <Compile Include="Assets\Scripts\pot.cs" />
