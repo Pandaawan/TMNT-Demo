@@ -63,21 +63,24 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\CameraMovement.cs" />
     <Compile Include="Assets\Scripts\Enemy.cs" />
-    <Compile Include="Assets\Scripts\HeartManager.cs" />
-    <Compile Include="Assets\Scripts\KnockBack.cs" />
-    <Compile Include="Assets\Scripts\PlayerHit.cs" />
-    <Compile Include="Assets\Scripts\PlayerMovement.cs" />
-    <Compile Include="Assets\Scripts\RoomMove.cs" />
-    <Compile Include="Assets\Scripts\SceneTransition.cs" />
+    <Compile Include="Assets\Scripts\Game Misc\CameraMovement.cs" />
+    <Compile Include="Assets\Scripts\Game Misc\KnockBack.cs" />
+    <Compile Include="Assets\Scripts\Objects\Interactable.cs" />
+    <Compile Include="Assets\Scripts\Objects\RoomMove.cs" />
+    <Compile Include="Assets\Scripts\Objects\SceneTransition.cs" />
+    <Compile Include="Assets\Scripts\Objects\Sign.cs" />
+    <Compile Include="Assets\Scripts\Objects\TreasureChest.cs" />
+    <Compile Include="Assets\Scripts\Objects\pot.cs" />
+    <Compile Include="Assets\Scripts\Player Scripts\ContextClue.cs" />
+    <Compile Include="Assets\Scripts\Player Scripts\HeartManager.cs" />
+    <Compile Include="Assets\Scripts\Player Scripts\PlayerHit.cs" />
+    <Compile Include="Assets\Scripts\Player Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\ScriptableObjects\FloatValue.cs" />
     <Compile Include="Assets\Scripts\ScriptableObjects\Signal.cs" />
     <Compile Include="Assets\Scripts\ScriptableObjects\VectorValue.cs" />
-    <Compile Include="Assets\Scripts\Sign.cs" />
     <Compile Include="Assets\Scripts\SignalListener.cs" />
     <Compile Include="Assets\Scripts\log.cs" />
-    <Compile Include="Assets\Scripts\pot.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Unity/TMNT Demo/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

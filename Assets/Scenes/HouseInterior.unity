@@ -4910,5 +4910,22 @@ PrefabInstance:
       propertyPath: playerPosition.y
       value: -7.5
       objectReference: {fileID: 0}
+    - target: {fileID: 5615542185619793819, guid: 22d278d2a548d1442b68b01ccdb81f59,
+        type: 3}
+      propertyPath: fadeInPanel
+      value: 
+      objectReference: {fileID: 3732603933601836589, guid: e71c0583ee66429499c2528840483a87,
+        type: 3}
+    - target: {fileID: 5615542185619793819, guid: 22d278d2a548d1442b68b01ccdb81f59,
+        type: 3}
+      propertyPath: fadeOutPanel
+      value: 
+      objectReference: {fileID: 5440704707446686998, guid: 3d1465407e55bf84e8eb55cd7b5739f9,
+        type: 3}
+    - target: {fileID: 5615542185619793819, guid: 22d278d2a548d1442b68b01ccdb81f59,
+        type: 3}
+      propertyPath: fadeWait
+      value: 0.33
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 22d278d2a548d1442b68b01ccdb81f59, type: 3}
