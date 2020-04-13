@@ -27,7 +27,7 @@ public class RoomMove : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player"))
+        if (collision.CompareTag("Player") && !collision.isTrigger) //Check Player AND NOT collision/knock back box
         {
             cam.minPosition += cameraChange;
             cam.maxPosition += cameraChange;
