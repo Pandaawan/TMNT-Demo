@@ -32,6 +32,72 @@ TextureImporter:
   - first:
       213: 5169821016030667348
     second: Leo-OW-Attack_9
+  - first:
+      213: 5072406676790978730
+    second: Leo-OW-Attack_0
+  - first:
+      213: 8294220517485416851
+    second: Leo-OW-Attack_1
+  - first:
+      213: 8994136149679297541
+    second: Leo-OW-Attack_2
+  - first:
+      213: -1718111470357846683
+    second: Leo-OW-Attack_3
+  - first:
+      213: 8915115202685381387
+    second: Leo-OW-Attack_4
+  - first:
+      213: -3427394401098480753
+    second: Leo-OW-Attack_5
+  - first:
+      213: 5540826862025463213
+    second: Leo-OW-Attack_6
+  - first:
+      213: -3993617872941448047
+    second: Leo-OW-Attack_7
+  - first:
+      213: -3182749559645228053
+    second: Leo-OW-Attack_8
+  - first:
+      213: 2662217156687479493
+    second: Leo-OW-Attack_9
+  - first:
+      213: 1509986359897454730
+    second: Leo-OW-Attack_10
+  - first:
+      213: 6977490017550190060
+    second: Leo-OW-Attack_11
+  - first:
+      213: -5365419467600300464
+    second: Leo-OW-Attack_12
+  - first:
+      213: -2330829642227800775
+    second: Leo-OW-Attack_13
+  - first:
+      213: -8739349133241473295
+    second: Leo-OW-Attack_14
+  - first:
+      213: -8142451323250090218
+    second: Leo-OW-Attack_15
+  - first:
+      213: -6491918668686960763
+    second: Leo-OW-Attack_16
+  - first:
+      213: 2362977945348841287
+    second: Leo-OW-Attack_17
+  - first:
+      213: -1403350108426006343
+    second: Leo-OW-Attack_18
+  - first:
+      213: -453164046229020150
+    second: Leo-OW-Attack_19
+  - first:
+      213: -6238494184314632700
+    second: Leo-OW-Attack_20
+  - first:
+      213: -4818727800976814253
+    second: Leo-OW-Attack_21
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -124,14 +190,14 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2c5447c4699fc2d0800000000000000
-      internalID: -3256215347446653909
+      spriteID: aa8227e6ffec46640800000000000000
+      internalID: 5072406676790978730
       vertices: []
       indices: 
       edges: []
@@ -145,14 +211,14 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3792197017cd7e2e0800000000000000
-      internalID: -2096464723501307533
+      spriteID: 3919971bd9dfa1370800000000000000
+      internalID: 8294220517485416851
       vertices: []
       indices: 
       edges: []
@@ -166,14 +232,14 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54864e227a9090d80800000000000000
-      internalID: -8284079426121734075
+      spriteID: 5045227dc2791dc70800000000000000
+      internalID: 8994136149679297541
       vertices: []
       indices: 
       edges: []
@@ -187,14 +253,14 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32911f7f6bb573810800000000000000
-      internalID: 1744964222031304995
+      spriteID: 565ebcc78ba0828e0800000000000000
+      internalID: -1718111470357846683
       vertices: []
       indices: 
       edges: []
@@ -214,8 +280,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b19b9bed0c16a410800000000000000
-      internalID: 1487907573005521334
+      spriteID: b0b2fb3ea0ad8bb70800000000000000
+      internalID: 8915115202685381387
       vertices: []
       indices: 
       edges: []
@@ -229,14 +295,14 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8e7446e53b265e00800000000000000
-      internalID: 1033060675024617103
+      spriteID: f83cc5983f27f60d0800000000000000
+      internalID: -3427394401098480753
       vertices: []
       indices: 
       edges: []
@@ -250,14 +316,14 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2d8f4b26d367bb70800000000000000
-      internalID: 8914703758903971119
+      spriteID: da558f8aca8f4ec40800000000000000
+      internalID: 5540826862025463213
       vertices: []
       indices: 
       edges: []
@@ -266,19 +332,19 @@ TextureImporter:
       name: Leo-OW-Attack_7
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 48
+        y: 32
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e2fe7c2cc2a25be0800000000000000
-      internalID: -1489949528902667552
+      spriteID: 1948ca224b1d398c0800000000000000
+      internalID: -3993617872941448047
       vertices: []
       indices: 
       edges: []
@@ -287,25 +353,46 @@ TextureImporter:
       name: Leo-OW-Attack_8
       rect:
         serializedVersion: 2
-        x: 16
+        x: 0
         y: 0
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a8fa05fbe217c5570800000000000000
-      internalID: 8456758645887119242
+      spriteID: be3b050732a94d3d0800000000000000
+      internalID: -3182749559645228053
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
       name: Leo-OW-Attack_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2ce43266812f420800000000000000
+      internalID: 2662217156687479493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-OW-Attack_10
       rect:
         serializedVersion: 2
         x: 16
@@ -319,8 +406,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4526bdcb2d4eeb740800000000000000
-      internalID: 5169821016030667348
+      spriteID: a887f55189c84f410800000000000000
+      internalID: 1509986359897454730
       vertices: []
       indices: 
       edges: []

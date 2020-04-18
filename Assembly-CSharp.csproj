@@ -63,7 +63,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Enemy.cs" />
+    <Compile Include="Assets\Scripts\Enemy Scripts\Enemy.cs" />
+    <Compile Include="Assets\Scripts\Enemy Scripts\PatrolLog.cs" />
+    <Compile Include="Assets\Scripts\Enemy Scripts\log.cs" />
     <Compile Include="Assets\Scripts\Game Misc\CameraMovement.cs" />
     <Compile Include="Assets\Scripts\Game Misc\KnockBack.cs" />
     <Compile Include="Assets\Scripts\Objects\Interactable.cs" />
@@ -77,10 +79,11 @@
     <Compile Include="Assets\Scripts\Player Scripts\PlayerHit.cs" />
     <Compile Include="Assets\Scripts\Player Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\ScriptableObjects\FloatValue.cs" />
+    <Compile Include="Assets\Scripts\ScriptableObjects\Inventory.cs" />
+    <Compile Include="Assets\Scripts\ScriptableObjects\Item.cs" />
     <Compile Include="Assets\Scripts\ScriptableObjects\Signal.cs" />
     <Compile Include="Assets\Scripts\ScriptableObjects\VectorValue.cs" />
     <Compile Include="Assets\Scripts\SignalListener.cs" />
-    <Compile Include="Assets\Scripts\log.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Unity/TMNT Demo/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
