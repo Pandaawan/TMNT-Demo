@@ -3711,7 +3711,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1301033209
 GameObject:
@@ -4927,5 +4927,17 @@ PrefabInstance:
       propertyPath: fadeWait
       value: 0.33
       objectReference: {fileID: 0}
+    - target: {fileID: 5615542185619793819, guid: 22d278d2a548d1442b68b01ccdb81f59,
+        type: 3}
+      propertyPath: cameraMax
+      value: 
+      objectReference: {fileID: 11400000, guid: 45c746bed002cf040a594fedffbb82e4,
+        type: 2}
+    - target: {fileID: 5615542185619793819, guid: 22d278d2a548d1442b68b01ccdb81f59,
+        type: 3}
+      propertyPath: cameraMin
+      value: 
+      objectReference: {fileID: 11400000, guid: 59fbe345d08519e4aa414cce35fd5ccf,
+        type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 22d278d2a548d1442b68b01ccdb81f59, type: 3}

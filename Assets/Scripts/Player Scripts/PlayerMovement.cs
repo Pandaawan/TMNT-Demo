@@ -23,6 +23,7 @@ public class PlayerMovement : MonoBehaviour
     public VectorValue startingPosition;
     public Inventory playerInventory;
     public SpriteRenderer receivedItemSprite;
+    public Signals playerHit;
 
     // Start is called before the first frame update
     void Start()
@@ -111,6 +112,7 @@ public class PlayerMovement : MonoBehaviour
 
     public void Knock(float knockTime, float damage)
     {
+        playerHit.Raise();
         currentHealth.RuntimeValue -= damage;
         playerHealthSignal.Raise();
         if (currentHealth.RuntimeValue > 0)
