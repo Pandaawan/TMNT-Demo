@@ -1,0 +1,4448 @@
+fileFormatVersion: 2
+guid: 8c2ca6cdc14ee504f9f6df76cc9c5bc9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7217545054007505394
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_0
+  - first:
+      213: 3928493846910015032
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_1
+  - first:
+      213: -5040949674672406633
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_2
+  - first:
+      213: 2381466870250931734
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_3
+  - first:
+      213: -6515466719944552113
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_4
+  - first:
+      213: 7751813378575950547
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_5
+  - first:
+      213: -3641331006104596198
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_6
+  - first:
+      213: 3004073872005369682
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_7
+  - first:
+      213: -5075136538443667918
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_8
+  - first:
+      213: 8713556127300837969
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_9
+  - first:
+      213: 519371068803677593
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_10
+  - first:
+      213: -857220630580647772
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_11
+  - first:
+      213: 2650405187316282642
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_12
+  - first:
+      213: -3161898744763399599
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_13
+  - first:
+      213: -1434474679124107644
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_14
+  - first:
+      213: 7156203847992985574
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_15
+  - first:
+      213: -3898913529669200829
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_16
+  - first:
+      213: -7643352115542122745
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_17
+  - first:
+      213: -2014464630392982098
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_18
+  - first:
+      213: -9177332083538745848
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_19
+  - first:
+      213: -4161938311127981168
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_20
+  - first:
+      213: -3547934121649479773
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_21
+  - first:
+      213: 2472586941582591331
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_22
+  - first:
+      213: -2596943093594393067
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_23
+  - first:
+      213: -3417931903220590950
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_24
+  - first:
+      213: -8525546363594066833
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_25
+  - first:
+      213: -1215411515840355032
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_26
+  - first:
+      213: 4812775894825668559
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_27
+  - first:
+      213: 3066425526875139802
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_28
+  - first:
+      213: -8412704278331960735
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_29
+  - first:
+      213: 3975302083388313537
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_30
+  - first:
+      213: 4832432948683249195
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_31
+  - first:
+      213: -445681899372171786
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_32
+  - first:
+      213: -9012530038408480687
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_33
+  - first:
+      213: -6802673331732983982
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_34
+  - first:
+      213: -2646246725846476384
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_35
+  - first:
+      213: -3631605572784981059
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_36
+  - first:
+      213: 950278116090127891
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_37
+  - first:
+      213: -2410780184817335669
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_38
+  - first:
+      213: 666602333387630348
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_39
+  - first:
+      213: -422339858661289197
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_40
+  - first:
+      213: 4692542669853404889
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_41
+  - first:
+      213: -3125184710932600320
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_42
+  - first:
+      213: -2480905832238773581
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_43
+  - first:
+      213: -1663963001786547347
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_44
+  - first:
+      213: 8165415686232416536
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_45
+  - first:
+      213: 5298643332952348209
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_46
+  - first:
+      213: 6795461731598438105
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_47
+  - first:
+      213: 4364844706504314317
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_48
+  - first:
+      213: -5486283922206787624
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_49
+  - first:
+      213: -8943582864480445616
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_50
+  - first:
+      213: 3167147509681877418
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_51
+  - first:
+      213: -6206873267161243616
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_52
+  - first:
+      213: 3119479007034677473
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_53
+  - first:
+      213: -779502637878968677
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_54
+  - first:
+      213: 2074782802281602423
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_55
+  - first:
+      213: 5208496634916319803
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_56
+  - first:
+      213: -7409060696589655499
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_57
+  - first:
+      213: 4011603936869883960
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_58
+  - first:
+      213: -4918906911850519388
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_59
+  - first:
+      213: -2052472095745246701
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_60
+  - first:
+      213: -2098067047234843015
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_61
+  - first:
+      213: -8781805053442443009
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_62
+  - first:
+      213: -3053412023961814877
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_63
+  - first:
+      213: -8420468817016373009
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_64
+  - first:
+      213: 7761645151622763402
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_65
+  - first:
+      213: 214299715043460606
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_66
+  - first:
+      213: -8199317885144734493
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_67
+  - first:
+      213: 1886026482870093877
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_68
+  - first:
+      213: -214202384711657283
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_69
+  - first:
+      213: 4635979004387111771
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_70
+  - first:
+      213: -913591315577867408
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_71
+  - first:
+      213: -9121702022794771490
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_72
+  - first:
+      213: -1887137374707880804
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_73
+  - first:
+      213: 3442070656338794219
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_74
+  - first:
+      213: -6095148380050518802
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_75
+  - first:
+      213: 7508714518995007636
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_76
+  - first:
+      213: -3312153861469330669
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_77
+  - first:
+      213: 7992266695460949218
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_78
+  - first:
+      213: -7154783231506072398
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_79
+  - first:
+      213: -740896638091092097
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_80
+  - first:
+      213: -8915927960290590207
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_81
+  - first:
+      213: -3120176300504550156
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_82
+  - first:
+      213: -8076648504763476466
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_83
+  - first:
+      213: 1937747540600986742
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_84
+  - first:
+      213: 2503403542769637879
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_85
+  - first:
+      213: 7989372247075765860
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_86
+  - first:
+      213: -2494597345928961492
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_87
+  - first:
+      213: 7332285030668579897
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_88
+  - first:
+      213: -2221693886089622927
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_89
+  - first:
+      213: -7390340552852723044
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_90
+  - first:
+      213: -5019666841807738921
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_91
+  - first:
+      213: 147808461048059974
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_92
+  - first:
+      213: -5027797737444502020
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_93
+  - first:
+      213: -4726514613793182434
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_94
+  - first:
+      213: -3761075297248192282
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_95
+  - first:
+      213: -1000797701850979517
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_96
+  - first:
+      213: 4111497515653039563
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_97
+  - first:
+      213: -8866541288544758862
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_98
+  - first:
+      213: -9184651741907208685
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_99
+  - first:
+      213: -7738403848585599300
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_100
+  - first:
+      213: 5908731989283280664
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_101
+  - first:
+      213: 2615477968817725281
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_102
+  - first:
+      213: -578572243697821200
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_103
+  - first:
+      213: 8379644625186546229
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_104
+  - first:
+      213: -4612578515191125319
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_105
+  - first:
+      213: -3760863158017285191
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_106
+  - first:
+      213: 4241645829839269477
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_107
+  - first:
+      213: -6222958818632372661
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_108
+  - first:
+      213: 1647683751807373445
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_109
+  - first:
+      213: 5655444425485152870
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_110
+  - first:
+      213: 583360902255082562
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_111
+  - first:
+      213: 8592149506906991402
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_112
+  - first:
+      213: 4887468561302627655
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_113
+  - first:
+      213: 2582098324086075293
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_114
+  - first:
+      213: -4760703583544012877
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_115
+  - first:
+      213: 3168062219414656095
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_116
+  - first:
+      213: 1772801071452554008
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_117
+  - first:
+      213: -5687578989990278843
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_118
+  - first:
+      213: 4393784433618710430
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_119
+  - first:
+      213: 301600078120436026
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_120
+  - first:
+      213: 1621998801774560943
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_121
+  - first:
+      213: -7286626925942319883
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_122
+  - first:
+      213: 4014302892477154937
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_123
+  - first:
+      213: 1058270824944928178
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_124
+  - first:
+      213: -1394389937317682905
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_125
+  - first:
+      213: -2942717772680837741
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_126
+  - first:
+      213: 1752397865011806236
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_127
+  - first:
+      213: -948816002460271836
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_128
+  - first:
+      213: -3759247586027498817
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_129
+  - first:
+      213: 1886843700359784891
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_130
+  - first:
+      213: 5185659445615730868
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_131
+  - first:
+      213: -3283695727058599406
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_132
+  - first:
+      213: -5544632979117354656
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_133
+  - first:
+      213: -6370228339886295562
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_134
+  - first:
+      213: -8204764639053982243
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_135
+  - first:
+      213: -3130777551346928609
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_136
+  - first:
+      213: 6028628191944680408
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_137
+  - first:
+      213: 1079540796266759693
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_138
+  - first:
+      213: 6083129817174063363
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_139
+  - first:
+      213: 4262087450380817498
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_140
+  - first:
+      213: 7315854356815388110
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_141
+  - first:
+      213: -4661375851087010366
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_142
+  - first:
+      213: 3028643193588933951
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_143
+  - first:
+      213: 4181288947632128322
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_144
+  - first:
+      213: 7347015563428559079
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_145
+  - first:
+      213: 3500216858822084182
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_146
+  - first:
+      213: -9044404763383580859
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_147
+  - first:
+      213: -1525422139020304433
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_148
+  - first:
+      213: -5108419462996851802
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_149
+  - first:
+      213: 566149272312138450
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_150
+  - first:
+      213: -4797466464036313163
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_151
+  - first:
+      213: 3916476682101055649
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_152
+  - first:
+      213: -193530381993784830
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_153
+  - first:
+      213: 2332455391835622096
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_154
+  - first:
+      213: -6536170999898682839
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_155
+  - first:
+      213: 1609186756005095602
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_156
+  - first:
+      213: -8309713594238412477
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_157
+  - first:
+      213: 5436948343589066389
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_158
+  - first:
+      213: 2111981257480872818
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_159
+  - first:
+      213: -5811077808765616539
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_160
+  - first:
+      213: 5866840783747380636
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_161
+  - first:
+      213: 8532880443035982363
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_162
+  - first:
+      213: 1373999445298808877
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_163
+  - first:
+      213: -9154994541558097529
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_164
+  - first:
+      213: -8588818063332854912
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_165
+  - first:
+      213: -4148528765135023509
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_166
+  - first:
+      213: -6291657199886743948
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_167
+  - first:
+      213: 4861507147703431759
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_168
+  - first:
+      213: 758707107398792363
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_169
+  - first:
+      213: -268473191607428133
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_170
+  - first:
+      213: 3735596169132816177
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_171
+  - first:
+      213: -5489650667342050679
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_172
+  - first:
+      213: -7132775621047272263
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_173
+  - first:
+      213: -2491240982685113612
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_174
+  - first:
+      213: 7674057802988445868
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_175
+  - first:
+      213: -5212579004130945855
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_176
+  - first:
+      213: 6869459430255574800
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_177
+  - first:
+      213: 1351536145760451382
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_178
+  - first:
+      213: -5427607225113063315
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_179
+  - first:
+      213: -2904065868451989383
+    second: TMNT-Area1-SideScroll-2-Collision-Layer_180
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1be768cfed92460800000000000000
+      internalID: 7217545054007505394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8361167f650d48630800000000000000
+      internalID: 3928493846910015032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fb78e9af2fa0ab0800000000000000
+      internalID: -5040949674672406633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6160bad308bac0120800000000000000
+      internalID: 2381466870250931734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4153d3e9896495a0800000000000000
+      internalID: -6515466719944552113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2e32b6239f39b60800000000000000
+      internalID: 7751813378575950547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1115871eb4677dc0800000000000000
+      internalID: -3641331006104596198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f89e3354d90b920800000000000000
+      internalID: 3004073872005369682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236a57f153e7199b0800000000000000
+      internalID: -5075136538443667918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152e132a125cce870800000000000000
+      internalID: 8713556127300837969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d78ae3c3d253700800000000000000
+      internalID: 519371068803677593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8aa14d06a8a14f0800000000000000
+      internalID: -857220630580647772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215f6d4b97128c420800000000000000
+      internalID: 2650405187316282642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152cf9618ddae14d0800000000000000
+      internalID: -3161898744763399599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ed38721e8b71ce0800000000000000
+      internalID: -1434474679124107644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7c7eb0c71ff4360800000000000000
+      internalID: 7156203847992985574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3445a165dc644e9c0800000000000000
+      internalID: -3898913529669200829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f91e34fbb5de590800000000000000
+      internalID: -7643352115542122745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea576dc771f2b04e0800000000000000
+      internalID: -2014464630392982098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806a0e6f71193a080800000000000000
+      internalID: -9177332083538745848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093a02c2823dd36c0800000000000000
+      internalID: -4161938311127981168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af5890d6b433cec0800000000000000
+      internalID: -3547934121649479773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365cc4919b4605220800000000000000
+      internalID: 2472586941582591331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516f66cf30ec5fbd0800000000000000
+      internalID: -2596943093594393067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96df020b011190d0800000000000000
+      internalID: -3417931903220590950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f643ad9a0cc2fa980800000000000000
+      internalID: -8525546363594066833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825aa667aadf12fe0800000000000000
+      internalID: -1215411515840355032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_27
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf85aa5d2a6ac240800000000000000
+      internalID: 4812775894825668559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade259325c12e8a20800000000000000
+      internalID: 3066425526875139802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_29
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1625d910802104b80800000000000000
+      internalID: -8412704278331960735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf0b3bce2c1b2730800000000000000
+      internalID: 3975302083388313537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_31
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26982bd920401340800000000000000
+      internalID: 4832432948683249195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fda9118cae90d9f0800000000000000
+      internalID: -445681899372171786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_33
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158ff153eaf0de280800000000000000
+      internalID: -9012530038408480687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_34
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f480b95ac0891a0800000000000000
+      internalID: -6802673331732983982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_35
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a951ed8f94a64bd0800000000000000
+      internalID: -2646246725846476384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb72ddf8f1f99dc0800000000000000
+      internalID: -3631605572784981059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_37
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316216b69e0103d00800000000000000
+      internalID: 950278116090127891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_38
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82896cd1303b8ed0800000000000000
+      internalID: -2410780184817335669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_39
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0724085a4f304900800000000000000
+      internalID: 666602333387630348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313510ed22c832af0800000000000000
+      internalID: -422339858661289197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_41
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dea9f132b24f1140800000000000000
+      internalID: 4692542669853404889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_42
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a6167301d11a4d0800000000000000
+      internalID: -3125184710932600320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_43
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba863c3a4d029dd0800000000000000
+      internalID: -2480905832238773581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_44
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63ce17477a68e8e0800000000000000
+      internalID: -1663963001786547347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_45
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811294ded42615170800000000000000
+      internalID: 8165415686232416536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136dd14b900988940800000000000000
+      internalID: 5298643332952348209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_47
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de8fa4e0745e4e50800000000000000
+      internalID: 6795461731598438105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd0fe6722b039c30800000000000000
+      internalID: 4364844706504314317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_49
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d77def17ddccd3b0800000000000000
+      internalID: -5486283922206787624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b5f5715c202e380800000000000000
+      internalID: -8943582864480445616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_51
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1f9d931e7f3fb20800000000000000
+      internalID: 3167147509681877418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_52
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0206cf026a1ccd9a0800000000000000
+      internalID: -6206873267161243616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8179211ad9a4b20800000000000000
+      internalID: 3119479007034677473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_54
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e7eb71b76ae25f0800000000000000
+      internalID: -779502637878968677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_55
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d951c47fb1bcc10800000000000000
+      internalID: 2074782802281602423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_56
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32310af71c484840800000000000000
+      internalID: 5208496634916319803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_57
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53227742d8abd2990800000000000000
+      internalID: -7409060696589655499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_58
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83020b4b6841ca730800000000000000
+      internalID: 4011603936869883960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4afe3a9388cbbb0800000000000000
+      internalID: -4918906911850519388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_60
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31af3bdd0872483e0800000000000000
+      internalID: -2052472095745246701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_61
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e4d96f22b22e2e0800000000000000
+      internalID: -2098067047234843015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_62
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff835d6f4d2c02680800000000000000
+      internalID: -8781805053442443009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_63
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a879de11f910a5d0800000000000000
+      internalID: -3053412023961814877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_64
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe04c77793c742b80800000000000000
+      internalID: -8420468817016373009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a839b177427e6bb60800000000000000
+      internalID: 7761645151622763402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_66
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef502a6947859f200800000000000000
+      internalID: 214299715043460606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_67
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4e07743db263e80800000000000000
+      internalID: -8199317885144734493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_68
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5388374f7138c2a10800000000000000
+      internalID: 1886026482870093877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_69
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db85835e010070df0800000000000000
+      internalID: -214202384711657283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_70
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53b9ae875e465040800000000000000
+      internalID: 4635979004387111771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_71
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0737915f9854253f0800000000000000
+      internalID: -913591315577867408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_72
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed30b50d654396180800000000000000
+      internalID: -9121702022794771490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_73
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c6c226e8a8fc5e0800000000000000
+      internalID: -1887137374707880804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_74
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be69eda6601b4cf20800000000000000
+      internalID: 3442070656338794219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec8ac187dea96ba0800000000000000
+      internalID: -6095148380050518802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_76
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498f3887210543860800000000000000
+      internalID: 7508714518995007636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313aead8c9dd802d0800000000000000
+      internalID: -3312153861469330669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec8225f63c3aee60800000000000000
+      internalID: 7992266695460949218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcb8210f8a15bc90800000000000000
+      internalID: -7154783231506072398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f9c4fde6ec7b5f0800000000000000
+      internalID: -740896638091092097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10208eb32c2444480800000000000000
+      internalID: -8915927960290590207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_82
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f475d3af28e2b4d0800000000000000
+      internalID: -3120176300504550156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_83
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0612e11afaf9ef80800000000000000
+      internalID: -8076648504763476466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_84
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c98ed1f1344ea10800000000000000
+      internalID: 1937747540600986742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_85
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f91d303240edb220800000000000000
+      internalID: 2503403542769637879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_86
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eb05daab3ffde60800000000000000
+      internalID: 7989372247075765860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22a54a4ee8616dd0800000000000000
+      internalID: -2494597345928961492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_88
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9343ae4236281c560800000000000000
+      internalID: 7332285030668579897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_89
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a88ff7e25fa21e0800000000000000
+      internalID: -2221693886089622927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_90
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9aac024c6c307990800000000000000
+      internalID: -7390340552852723044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_91
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d72e3b4a9f865ab0800000000000000
+      internalID: -5019666841807738921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_92
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648119f130f1d0200800000000000000
+      internalID: 147808461048059974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_93
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf59b11a89ca93ab0800000000000000
+      internalID: -5027797737444502020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_94
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d2a2b300c086eb0800000000000000
+      internalID: -4726514613793182434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_95
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e85606b1f9fdcbc0800000000000000
+      internalID: -3761075297248192282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_96
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3432529eac37c12f0800000000000000
+      internalID: -1000797701850979517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_97
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc58663f439fe0930800000000000000
+      internalID: 4111497515653039563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b394fdcca7b3f480800000000000000
+      internalID: -8866541288544758862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_99
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316b2f137ef898080800000000000000
+      internalID: -9184651741907208685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb62a8413baab9490800000000000000
+      internalID: -7738403848585599300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_101
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817973e3078000250800000000000000
+      internalID: 5908731989283280664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_102
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f9d31fa5b0c4420800000000000000
+      internalID: 2615477968817725281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f99d791c9f78f7f0800000000000000
+      internalID: -578572243697821200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532614ca36a7a4470800000000000000
+      internalID: 8379644625186546229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_105
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba2f676744dcffb0800000000000000
+      internalID: -4612578515191125319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_106
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3a68932eabecbc0800000000000000
+      internalID: -3760863158017285191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_107
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e2696b86a5dda30800000000000000
+      internalID: 4241645829839269477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e6883dceb93a9a0800000000000000
+      internalID: -6222958818632372661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_109
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58059a874afbdd610800000000000000
+      internalID: 1647683751807373445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_110
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662710cbdbc2c7e40800000000000000
+      internalID: 5655444425485152870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_111
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cf3ca56a3881800800000000000000
+      internalID: 583360902255082562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_112
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b2d3014727d3770800000000000000
+      internalID: 8592149506906991402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_113
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7452557f2c6c3d340800000000000000
+      internalID: 4887468561302627655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_114
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f2846ceb475d320800000000000000
+      internalID: 2582098324086075293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_115
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf0ee560559eedb0800000000000000
+      internalID: -4760703583544012877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_116
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54db8eadc737fb20800000000000000
+      internalID: 3168062219414656095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_117
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8138c598e214a9810800000000000000
+      internalID: 1772801071452554008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_118
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54987adea09a111b0800000000000000
+      internalID: -5687578989990278843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_119
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9feb71c9abd9fc30800000000000000
+      internalID: 4393784433618710430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3149905caf7f2400800000000000000
+      internalID: 301600078120436026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6c1e5015f728610800000000000000
+      internalID: 1621998801774560943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_122
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f45964ca63b0ea90800000000000000
+      internalID: -7286626925942319883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_123
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9768ce6463ba5b730800000000000000
+      internalID: 4014302892477154937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_124
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5800555bbbfae00800000000000000
+      internalID: 1058270824944928178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721ecc36db126ace0800000000000000
+      internalID: -1394389937317682905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_126
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3954125e6cd5927d0800000000000000
+      internalID: -2942717772680837741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_127
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c108e29d294c15810800000000000000
+      internalID: 1752397865011806236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_128
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b36207fd025d2f0800000000000000
+      internalID: -948816002460271836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb21614ec3874dbc0800000000000000
+      internalID: -3759247586027498817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_130
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9e0aa395a6f2a10800000000000000
+      internalID: 1886843700359784891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_131
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0231e7ac927f740800000000000000
+      internalID: 5185659445615730868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_132
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212443e4228fd62d0800000000000000
+      internalID: -3283695727058599406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_133
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0615bc5aea18d03b0800000000000000
+      internalID: -5544632979117354656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_134
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f573f663176897a0800000000000000
+      internalID: -6370228339886295562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5508f0802d22e80800000000000000
+      internalID: -8204764639053982243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_136
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14f235976e3d84d0800000000000000
+      internalID: -3130777551346928609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3a4c7466df9a350800000000000000
+      internalID: 6028628191944680408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_138
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06c50272ac4bfe00800000000000000
+      internalID: 1079540796266759693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_139
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3093f33c65e9b6450800000000000000
+      internalID: 6083129817174063363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_140
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54599164f9f52b30800000000000000
+      internalID: 4262087450380817498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_141
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd9976c6c2278560800000000000000
+      internalID: 7315854356815388110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_142
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5ef574c577f4fb0800000000000000
+      internalID: -4661375851087010366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_143
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35e54920f6e70a20800000000000000
+      internalID: 3028643193588933951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_144
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24141eaf42ce60a30800000000000000
+      internalID: 4181288947632128322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_145
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8fc619ab7d5f560800000000000000
+      internalID: 7347015563428559079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_146
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6568cea20b4439030800000000000000
+      internalID: 3500216858822084182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547bba979c1db7280800000000000000
+      internalID: -9044404763383580859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_148
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf9d2785ac94dae0800000000000000
+      internalID: -1525422139020304433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_149
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a38160609f3b19b0800000000000000
+      internalID: -5108419462996851802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_150
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dac20a73cd5bd700800000000000000
+      internalID: 566149272312138450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_151
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b724454ba9fb6db0800000000000000
+      internalID: -4797466464036313163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_152
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0ebbfbace1a5630800000000000000
+      internalID: 3916476682101055649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ac3089421705df0800000000000000
+      internalID: -193530381993784830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_154
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da8ecc22db8e5020800000000000000
+      internalID: 2332455391835622096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_155
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a44df0b1bda45a0800000000000000
+      internalID: -6536170999898682839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_156
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b862f824daf45610800000000000000
+      internalID: 1609186756005095602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_157
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3495f264387fdac80800000000000000
+      internalID: -8309713594238412477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_158
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59656c956bbe37b40800000000000000
+      internalID: 5436948343589066389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_159
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2732e6093c34f4d10800000000000000
+      internalID: 2111981257480872818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_160
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ebe567587ea5fa0800000000000000
+      internalID: -5811077808765616539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_161
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c957905eb943b6150800000000000000
+      internalID: 5866840783747380636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_162
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a9906cd81ea6670800000000000000
+      internalID: 8532880443035982363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_163
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d288e9a373d611310800000000000000
+      internalID: 1373999445298808877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_164
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7891acd38fce2f080800000000000000
+      internalID: -9154994541558097529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_165
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08336961a736ec880800000000000000
+      internalID: -8588818063332854912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_166
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6213a561177d66c0800000000000000
+      internalID: -4148528765135023509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476c8308c1b8fa8a0800000000000000
+      internalID: -6291657199886743948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_168
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42b2e35efa877340800000000000000
+      internalID: 4861507147703431759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_169
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4b1192818778a00800000000000000
+      internalID: 758707107398792363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_170
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb168efd01364cf0800000000000000
+      internalID: -268473191607428133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_171
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137b87d7ce087d330800000000000000
+      internalID: 3735596169132816177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_172
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a4710bdc7d0d3b0800000000000000
+      internalID: -5489650667342050679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_173
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc39ec1d5a430d90800000000000000
+      internalID: -7132775621047272263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_174
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2a82186855d6dd0800000000000000
+      internalID: -2491240982685113612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_175
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0e0f4b9eabf7a60800000000000000
+      internalID: 7674057802988445868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_176
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c49d1f530339a7b0800000000000000
+      internalID: -5212579004130945855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_177
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f3753b4f8355f50800000000000000
+      internalID: 6869459430255574800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_178
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bf62db6fe91c210800000000000000
+      internalID: 1351536145760451382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_179
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60dac64cf34da4b0800000000000000
+      internalID: -5427607225113063315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMNT-Area1-SideScroll-2-Collision-Layer_180
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9783592aa7fa2b7d0800000000000000
+      internalID: -2904065868451989383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
