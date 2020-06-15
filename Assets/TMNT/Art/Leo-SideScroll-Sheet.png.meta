@@ -1,0 +1,1109 @@
+fileFormatVersion: 2
+guid: 5ab46dea409bc684594ab23d3d064f45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1184450371601401924
+    second: Leo-SideScroll-Sheet_0
+  - first:
+      213: 7938558767623021102
+    second: Leo-SideScroll-Sheet_1
+  - first:
+      213: -5357803306654760399
+    second: Leo-SideScroll-Sheet_2
+  - first:
+      213: 6957039634230653402
+    second: Leo-SideScroll-Sheet_3
+  - first:
+      213: -7989309439311194534
+    second: Leo-SideScroll-Sheet_4
+  - first:
+      213: -5447282255768147952
+    second: Leo-SideScroll-Sheet_5
+  - first:
+      213: 156494470343007760
+    second: Leo-SideScroll-Sheet_6
+  - first:
+      213: 1731480287271976650
+    second: Leo-SideScroll-Sheet_7
+  - first:
+      213: -645041311651568880
+    second: Leo-SideScroll-Sheet_8
+  - first:
+      213: 1985054428741007194
+    second: Leo-SideScroll-Sheet_9
+  - first:
+      213: -6014823645386102177
+    second: Leo-SideScroll-Sheet_10
+  - first:
+      213: 2935060355445860902
+    second: Leo-SideScroll-Sheet_11
+  - first:
+      213: 4157508790553826185
+    second: Leo-SideScroll-Sheet_12
+  - first:
+      213: -4778555372823595478
+    second: Leo-SideScroll-Sheet_13
+  - first:
+      213: -7323157381066663782
+    second: Leo-SideScroll-Sheet_14
+  - first:
+      213: -6366977778749185272
+    second: Leo-SideScroll-Sheet_15
+  - first:
+      213: -7899899832796483197
+    second: Leo-SideScroll-Sheet_16
+  - first:
+      213: -1857399017951344021
+    second: Leo-SideScroll-Sheet_17
+  - first:
+      213: 7696548165992841635
+    second: Leo-SideScroll-Sheet_18
+  - first:
+      213: -1270633521708751407
+    second: Leo-SideScroll-Sheet_19
+  - first:
+      213: 776240459236076801
+    second: Leo-SideScroll-Sheet_20
+  - first:
+      213: -8074675708148461425
+    second: Leo-SideScroll-Sheet_21
+  - first:
+      213: 8047216994445495376
+    second: Leo-SideScroll-Sheet_22
+  - first:
+      213: -4256647353246875446
+    second: Leo-SideScroll-Sheet_23
+  - first:
+      213: 4403375501027182922
+    second: Leo-SideScroll-Sheet_24
+  - first:
+      213: -3287787577307080863
+    second: Leo-SideScroll-Sheet_25
+  - first:
+      213: 5071808642686462906
+    second: Leo-SideScroll-Sheet_26
+  - first:
+      213: -6845794210865050152
+    second: Leo-SideScroll-Sheet_27
+  - first:
+      213: -765657435309924562
+    second: Leo-SideScroll-Sheet_28
+  - first:
+      213: -577578455576491102
+    second: Leo-SideScroll-Sheet_29
+  - first:
+      213: -7980943854220082496
+    second: Leo-SideScroll-Sheet_30
+  - first:
+      213: 4919738109100671334
+    second: Leo-SideScroll-Sheet_31
+  - first:
+      213: 1859990762532424276
+    second: Leo-SideScroll-Sheet_32
+  - first:
+      213: -8328559683839030188
+    second: Leo-SideScroll-Sheet_33
+  - first:
+      213: 8395955472307286034
+    second: Leo-SideScroll-Sheet_34
+  - first:
+      213: 5962782061950082929
+    second: Leo-SideScroll-Sheet_35
+  - first:
+      213: -2098862311232944266
+    second: Leo-SideScroll-Sheet_36
+  - first:
+      213: -3110667332179364435
+    second: Leo-SideScroll-Sheet_37
+  - first:
+      213: 5791312943794696558
+    second: Leo-SideScroll-Sheet_38
+  - first:
+      213: -5449569019254194862
+    second: Leo-SideScroll-Sheet_39
+  - first:
+      213: 8370040980610607381
+    second: Leo-SideScroll-Sheet_40
+  - first:
+      213: -1961938696017377797
+    second: Leo-SideScroll-Sheet_41
+  - first:
+      213: -3928912343042394817
+    second: Leo-SideScroll-Sheet_42
+  - first:
+      213: -7494748446520720608
+    second: Leo-SideScroll-Sheet_43
+  - first:
+      213: -7384826754013153328
+    second: Leo-SideScroll-Sheet_44
+  - first:
+      213: -2664346010012789804
+    second: Leo-SideScroll-Sheet_45
+  - first:
+      213: 4406827754091488743
+    second: Leo-SideScroll-Sheet_46
+  - first:
+      213: -6002559011812105634
+    second: Leo-SideScroll-Sheet_47
+  - first:
+      213: -3896084305947575534
+    second: Leo-SideScroll-Sheet_48
+  - first:
+      213: 752237681928108416
+    second: Leo-SideScroll-Sheet_49
+  - first:
+      213: 7697169232428935205
+    second: Leo-SideScroll-Sheet_50
+  - first:
+      213: -8904242138260926100
+    second: Leo-SideScroll-Sheet_51
+  - first:
+      213: -8930821112032308529
+    second: Leo-SideScroll-Sheet_52
+  - first:
+      213: 3342944520679803344
+    second: Leo-SideScroll-Sheet_53
+  - first:
+      213: -3705581313282349606
+    second: Leo-SideScroll-Sheet_54
+  - first:
+      213: -3712446391564105482
+    second: Leo-SideScroll-Sheet_55
+  - first:
+      213: 1697031382615521200
+    second: Leo-SideScroll-Sheet_56
+  - first:
+      213: 2851005410062916724
+    second: Leo-SideScroll-Sheet_57
+  - first:
+      213: 6294443374109300683
+    second: Leo-SideScroll-Sheet_58
+  - first:
+      213: -8531862214828892395
+    second: Leo-SideScroll-Sheet_59
+  - first:
+      213: -1249547097523095476
+    second: Leo-SideScroll-Sheet_60
+  - first:
+      213: -7448793801457296544
+    second: Leo-SideScroll-Sheet_61
+  - first:
+      213: -8053295776689077022
+    second: Leo-SideScroll-Sheet_62
+  - first:
+      213: -3244851454327806917
+    second: Leo-SideScroll-Sheet_63
+  - first:
+      213: -6567884509105445187
+    second: Leo-SideScroll-Sheet_64
+  - first:
+      213: 843831644993948223
+    second: Leo-SideScroll-Sheet_65
+  - first:
+      213: -2420082722188522827
+    second: Leo-SideScroll-Sheet_66
+  - first:
+      213: 6980002086832355752
+    second: Leo-SideScroll-Sheet_67
+  - first:
+      213: -1791956204984960090
+    second: Leo-SideScroll-Sheet_68
+  - first:
+      213: 7639092820071594957
+    second: Leo-SideScroll-Sheet_69
+  - first:
+      213: -3467213043180106782
+    second: Leo-SideScroll-Sheet_70
+  - first:
+      213: -5464136067009392592
+    second: Leo-SideScroll-Sheet_71
+  - first:
+      213: -3977873618700992475
+    second: Leo-SideScroll-Sheet_72
+  - first:
+      213: 4926598232330979525
+    second: Leo-SideScroll-Sheet_73
+  - first:
+      213: 2033837449308642463
+    second: Leo-SideScroll-Sheet_74
+  - first:
+      213: 1930511027841938466
+    second: Leo-SideScroll-Sheet_75
+  - first:
+      213: 794925723705104568
+    second: Leo-SideScroll-Sheet_76
+  - first:
+      213: 6584490048254340361
+    second: Leo-SideScroll-Sheet_77
+  - first:
+      213: 8052672262774138350
+    second: Leo-SideScroll-Sheet_78
+  - first:
+      213: 8200114665933395018
+    second: Leo-SideScroll-Sheet_79
+  - first:
+      213: 8034311495444353009
+    second: Leo-SideScroll-Sheet_80
+  - first:
+      213: 2504172731237170926
+    second: Leo-SideScroll-Sheet_81
+  - first:
+      213: 6643583034742117765
+    second: Leo-SideScroll-Sheet_82
+  - first:
+      213: 1278695056438211449
+    second: Leo-SideScroll-Sheet_83
+  - first:
+      213: -4941749823186159884
+    second: Leo-SideScroll-Sheet_84
+  - first:
+      213: 4569893712840789234
+    second: Leo-SideScroll-Sheet_85
+  - first:
+      213: 2064708346219199335
+    second: Leo-SideScroll-Sheet_86
+  - first:
+      213: 2519188136158087224
+    second: Leo-SideScroll-Sheet_87
+  - first:
+      213: -150659094883713719
+    second: Leo-SideScroll-Sheet_88
+  - first:
+      213: 8811833192875813697
+    second: Leo-SideScroll-Sheet_89
+  - first:
+      213: -8324675579052043781
+    second: Leo-SideScroll-Sheet_90
+  - first:
+      213: -1817872330666962416
+    second: Leo-SideScroll-Sheet_91
+  - first:
+      213: -5002795024661606216
+    second: Leo-SideScroll-Sheet_92
+  - first:
+      213: -1937075265163718018
+    second: Leo-SideScroll-Sheet_93
+  - first:
+      213: 6449595088324804288
+    second: Leo-SideScroll-Sheet_94
+  - first:
+      213: 1620248719206140586
+    second: Leo-SideScroll-Sheet_95
+  - first:
+      213: -4743322942153965777
+    second: Leo-SideScroll-Sheet_96
+  - first:
+      213: 3329958085190525224
+    second: Leo-SideScroll-Sheet_97
+  - first:
+      213: 8689694974831817487
+    second: Leo-SideScroll-Sheet_98
+  - first:
+      213: -619700551906627825
+    second: Leo-SideScroll-Sheet_99
+  - first:
+      213: 5248374252795101625
+    second: Leo-SideScroll-Sheet_100
+  - first:
+      213: 8387227204488416140
+    second: Leo-SideScroll-Sheet_101
+  - first:
+      213: 7064471310851977154
+    second: Leo-SideScroll-Sheet_102
+  - first:
+      213: 7265188904275704265
+    second: Leo-SideScroll-Sheet_103
+  - first:
+      213: 6152444278001207901
+    second: Leo-SideScroll-Sheet_104
+  - first:
+      213: 5498972711950952354
+    second: Leo-SideScroll-Sheet_105
+  - first:
+      213: -6625049091656912398
+    second: Leo-SideScroll-Sheet_106
+  - first:
+      213: 1482145998824138103
+    second: Leo-SideScroll-Sheet_107
+  - first:
+      213: 7971088677899168718
+    second: Leo-SideScroll-Sheet_108
+  - first:
+      213: 4917796561164357043
+    second: Leo-SideScroll-Sheet_109
+  - first:
+      213: -4128182195597378981
+    second: Leo-SideScroll-Sheet_110
+  - first:
+      213: -8686673708832331913
+    second: Leo-SideScroll-Sheet_111
+  - first:
+      213: -252788266553981124
+    second: Leo-SideScroll-Sheet_112
+  - first:
+      213: 6119597989629744546
+    second: Leo-SideScroll-Sheet_113
+  - first:
+      213: -4190453484855118688
+    second: Leo-SideScroll-Sheet_114
+  - first:
+      213: 3991000809339490708
+    second: Leo-SideScroll-Sheet_115
+  - first:
+      213: -2080550949201836364
+    second: Leo-SideScroll-Sheet_116
+  - first:
+      213: 2819355967955897388
+    second: Leo-SideScroll-Sheet_117
+  - first:
+      213: -6402700037278190679
+    second: Leo-SideScroll-Sheet_118
+  - first:
+      213: -7728752989680299026
+    second: Leo-SideScroll-Sheet_119
+  - first:
+      213: 4404068867140766330
+    second: Leo-SideScroll-Sheet_120
+  - first:
+      213: 4074131107826339147
+    second: Leo-SideScroll-Sheet_121
+  - first:
+      213: -89298043980111306
+    second: Leo-SideScroll-Sheet_122
+  - first:
+      213: 5286569615889556733
+    second: Leo-SideScroll-Sheet_123
+  - first:
+      213: -1983070741398457534
+    second: Leo-SideScroll-Sheet_124
+  - first:
+      213: 308347522221883729
+    second: Leo-SideScroll-Sheet_125
+  - first:
+      213: -6376590500578944085
+    second: Leo-SideScroll-Sheet_126
+  - first:
+      213: -6538139255643630279
+    second: Leo-SideScroll-Sheet_127
+  - first:
+      213: -819971652741156095
+    second: Leo-SideScroll-Sheet_128
+  - first:
+      213: -8767149442123974514
+    second: Leo-SideScroll-Sheet_129
+  - first:
+      213: -79252846932799687
+    second: Leo-SideScroll-Sheet_130
+  - first:
+      213: -8669932841442063497
+    second: Leo-SideScroll-Sheet_131
+  - first:
+      213: -8185712862020407411
+    second: Leo-SideScroll-Sheet_132
+  - first:
+      213: 933786532271357860
+    second: Leo-SideScroll-Sheet_133
+  - first:
+      213: -1535949507400213239
+    second: Leo-SideScroll-Sheet_134
+  - first:
+      213: 6317995541906612415
+    second: Leo-SideScroll-Sheet_0
+  - first:
+      213: 5670533891686897077
+    second: Leo-SideScroll-Sheet_1
+  - first:
+      213: 7895992624074717788
+    second: Leo-SideScroll-Sheet_2
+  - first:
+      213: 6566457689001217518
+    second: Leo-SideScroll-Sheet_3
+  - first:
+      213: 4775469087162867293
+    second: Leo-SideScroll-Sheet_4
+  - first:
+      213: -2834245246472473687
+    second: Leo-SideScroll-Sheet_5
+  - first:
+      213: 7595607070006804143
+    second: Leo-SideScroll-Sheet_6
+  - first:
+      213: 7206010357205432855
+    second: Leo-SideScroll-Sheet_7
+  - first:
+      213: 8419036073009808221
+    second: Leo-SideScroll-Sheet_8
+  - first:
+      213: 6544808580766751696
+    second: Leo-SideScroll-Sheet_9
+  - first:
+      213: -4822405282612587873
+    second: Leo-SideScroll-Sheet_10
+  - first:
+      213: -6024408894931070597
+    second: Leo-SideScroll-Sheet_11
+  - first:
+      213: 3095346768117589928
+    second: Leo-SideScroll-Sheet_12
+  - first:
+      213: 6388956799389973613
+    second: Leo-SideScroll-Sheet_13
+  - first:
+      213: -5129041886689096701
+    second: Leo-SideScroll-Sheet_14
+  - first:
+      213: 1443607531105435345
+    second: Leo-SideScroll-Sheet_15
+  - first:
+      213: 6145739741984202262
+    second: Leo-SideScroll-Sheet_16
+  - first:
+      213: 1006417797457772363
+    second: Leo-SideScroll-Sheet_17
+  - first:
+      213: 3894746117731916548
+    second: Leo-SideScroll-Sheet_18
+  - first:
+      213: 11274972308826818
+    second: Leo-SideScroll-Sheet_19
+  - first:
+      213: -8581388106760327210
+    second: Leo-SideScroll-Sheet_20
+  - first:
+      213: 1365383851102804049
+    second: Leo-SideScroll-Sheet_21
+  - first:
+      213: -2275134891145632165
+    second: Leo-SideScroll-Sheet_22
+  - first:
+      213: -4697522635352108811
+    second: Leo-SideScroll-Sheet_23
+  - first:
+      213: 7726020411211100720
+    second: Leo-SideScroll-Sheet_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 144
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb068df98770ea750800000000000000
+      internalID: 6317995541906612415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 144
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b59fccd788c1be40800000000000000
+      internalID: 5670533891686897077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 144
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5af313f473349d60800000000000000
+      internalID: 7895992624074717788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 144
+        width: 22
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedcc814a7eb02b50800000000000000
+      internalID: 6566457689001217518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 144
+        width: 43
+        height: 35
+      alignment: 9
+      pivot: {x: 0.18604651, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e933055dfd54240800000000000000
+      internalID: 4775469087162867293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 144
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 0.20512821, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a33badf6fcbaa8d0800000000000000
+      internalID: -2834245246472473687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae733d0364096960800000000000000
+      internalID: 7595607070006804143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 144
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71af305ad34e00460800000000000000
+      internalID: 7206010357205432855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 64
+        width: 27
+        height: 35
+      alignment: 9
+      pivot: {x: 0.2962963, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5303f2d3bc66d470800000000000000
+      internalID: 8419036073009808221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 64
+        width: 38
+        height: 35
+      alignment: 9
+      pivot: {x: 0.21052632, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbd7837ab4d3da50800000000000000
+      internalID: 6544808580766751696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 64
+        width: 26
+        height: 58
+      alignment: 9
+      pivot: {x: 0.30769232, y: 0.31034482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92d8e612ff531db0800000000000000
+      internalID: -4822405282612587873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64
+        width: 16
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b711eeb5700056ca0800000000000000
+      internalID: -6024408894931070597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 96
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a76d4a5c71e4fa20800000000000000
+      internalID: 3095346768117589928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 96
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cb4f0eb522aa850800000000000000
+      internalID: 6388956799389973613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 96
+        width: 33
+        height: 28
+      alignment: 9
+      pivot: {x: 0.24242425, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c0cc1349bf1d8b0800000000000000
+      internalID: -5129041886689096701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 74
+        width: 24
+        height: 50
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.72}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de3e96a669b80410800000000000000
+      internalID: 1443607531105435345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 66
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e18fadbbd0a4550800000000000000
+      internalID: 6145739741984202262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ff91197a387fd00800000000000000
+      internalID: 1006417797457772363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b1eb575faec0630800000000000000
+      internalID: 3894746117731916548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cae15f078e082000800000000000000
+      internalID: 11274972308826818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfe9c8abf8c8e880800000000000000
+      internalID: -8581388106760327210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 21
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1589903e061d2f210800000000000000
+      internalID: 1365383851102804049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 21
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56ea25eed81d60e0800000000000000
+      internalID: -2275134891145632165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f01b7b3d0c0fceb0800000000000000
+      internalID: -4697522635352108811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo-SideScroll-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032b7a931a6583b60800000000000000
+      internalID: 7726020411211100720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
