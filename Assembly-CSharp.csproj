@@ -76,7 +76,6 @@
      <Compile Include="Assets\Scripts\Player Scripts\PlayerHit.cs" />
      <Compile Include="Assets\Scripts\Player Scripts\PlayerMovement.cs" />
      <Compile Include="Assets\Scripts\Player Scripts\SideScroll\PlayerControllerSideScroll.cs" />
-     <Compile Include="Assets\Scripts\Player Scripts\SideScroll\PlayerMovementSideScroll.cs" />
      <Compile Include="Assets\Scripts\ScriptableObjects\BoolValue.cs" />
      <Compile Include="Assets\Scripts\ScriptableObjects\FloatValue.cs" />
      <Compile Include="Assets\Scripts\ScriptableObjects\Inventory.cs" />
